@@ -33,7 +33,8 @@ Limitations:  non-digitised work (at British Library: Guide to Loch Lomond, Rich
 ### Note:
 
 In this directory are several folders.
-Html contains the original html files
-Split.zip is a zip file of the cleaned versions, segmented into sections per book, as described in the documentation. Python scripts for doing the splitting are also included in the code directory.
-loch-lomond-all-datastore.zip s a zip file containing a Lucene datastore (viewable in GATE) with the entire corpus processed by the GATE Geo application, including the latest Loch Lomond geographical terms. This can be used for searching the corpus (for anyone with basic GATE skills).
+
+- `html` contains the original html files
+- `split.zip` is a zip file of the cleaned versions, segmented into sections per book, as described in the documentation. Python scripts for doing the splitting are also included in the code directory.
+- `loch-lomond-all-datastore.zip` is a zip file containing a Lucene datastore (viewable in GATE) with the entire corpus processed by the GATE Geo application, including the latest Loch Lomond geographical terms. This can be used for searching the corpus (for anyone with basic GATE skills).
 
